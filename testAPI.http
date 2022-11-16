@@ -1,0 +1,4 @@
+### 
+
+POST http://localhost:3333/users
+Date: { "name": "Tiago Cardoso", "email": "tcardosoc.dev@gmail.com", "password": "102083"}
